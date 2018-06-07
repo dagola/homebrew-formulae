@@ -1,2 +1,2 @@
 # homebrew-formulae
-Private Homebrew formulæ
+Private collection of homebrew formulæ.
